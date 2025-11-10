@@ -6,6 +6,6 @@ matplotlib
 seaborn
 shap
 streamlit-shap
-scikit-learn
-scikit-learn-intelex
+scikit-learn==1.7.2
+# scikit-learn-intelex
 pillow
