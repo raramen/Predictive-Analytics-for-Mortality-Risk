@@ -56,7 +56,7 @@ st.markdown(
 def load_model_assets():
     try:
         model = joblib.load('mortality_model.pkl')
-        explainer = joblib.load('shap_explainer.pkl')
+        explainer = joblib.load('shap_explainer_small.pkl')
         expected_value = joblib.load('shap_expected_value.pkl')
         original_features = joblib.load('original_feature_names.pkl')
         processed_features = joblib.load('feature_names.pkl')
