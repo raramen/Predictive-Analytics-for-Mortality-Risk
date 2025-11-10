@@ -4,7 +4,7 @@ numpy
 joblib
 matplotlib
 seaborn
-shap
+shap==0.41.0
 streamlit-shap
 scikit-learn==1.7.2
 # scikit-learn-intelex
