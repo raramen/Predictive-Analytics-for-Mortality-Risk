@@ -297,4 +297,5 @@ with tab_performa:
 
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown("### 📋 Laporan Klasifikasi")
-    st.code(report_str, language='text')
+    # st.code(report_str, language='text')
+    st.code(str(report_str), language='text')
