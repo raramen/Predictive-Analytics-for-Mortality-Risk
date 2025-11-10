@@ -9,4 +9,3 @@ streamlit-shap
 scikit-learn==1.6.1
 scikit-learn-intelex
 pillow
-python==3.9.13
