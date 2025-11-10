@@ -1,10 +1,10 @@
 streamlit
 pandas
-numpy
 joblib
 matplotlib
 seaborn
-shap==0.41.0
+shap==0.46.0
+numpy<2.0
 streamlit-shap
 scikit-learn==1.7.2
 # scikit-learn-intelex
