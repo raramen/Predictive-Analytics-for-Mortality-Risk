@@ -1,1 +1,8 @@
-pandas scikit-learn joblib matplotlib seaborn shap scikit-learn-intelex
+streamlit
+pandas
+numpy
+joblib
+matplotlib
+pillow
+shap
+streamlit-shap
